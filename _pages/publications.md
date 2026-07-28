@@ -7,3 +7,4 @@ author_profile: true
 
 - Bourdon, A., Jourdain, B. and Andrès, H. (2026). *Linear independence properties of the signature components of time-augmented stochastic processes* [arXiv](https://arxiv.org/pdf/2601.10545v3.pdf)
 - Bourdon, A., Jeannin, T. (2026). *Moments in Rough Bergomi and Boundary Attainment in Rough Heston* [arxiv](https://arxiv.org/pdf/2606.07482v4)
+- Andrès, H., Boumezoued, A., Bourdon, A. and Jourdain, B. (2026). *Approximation of stochastic insurer balance-sheet results using signatures of economic scenarios* [arXiv](https://arxiv.org/pdf/2607.24150)
